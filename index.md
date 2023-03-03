@@ -2,8 +2,6 @@
 title: Home
 layout: home
 ---
-<div style="text-align: left;"><img align="left" src="/assets/images/wonchan_choi_cropped_and_resized.jpg" width="25%" height="25%" /></div>
-
 My name is Wonchan Choi, an assistant professor at the [School of Information Studies](https://uwm.edu/informationstudies/) at the University of Wisconsin-Milwaukee (UWM). My areas of research involve information behavior and human–computer interaction. I received a PhD in information studies from the [School of Information](https://ischool.cci.fsu.edu/) at Florida State University. Before joining UWM in 2017, I worked as a postdoctoral fellow at the [Business School](https://www.wpi.edu/academics/business) at Worcester Polytechnic Institute in Massachusetts. 
 
 # Current Projects
