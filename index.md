@@ -12,7 +12,7 @@ My name is Wonchan Choi, an assistant professor at the [School of Information St
 
 # Publications 
 ## Journal Articles
-* Choi, W., Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. <em>Information Processing & Management, 60</em>(3), 103321. https://doi.org/10.1016/j.ipm.2023.103321
+* Choi, W., Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. <em>Information Processing & Management, 60</em>(3), 103321. [https://doi.org/10.1016/j.ipm.2023.103321]([url](https://doi.org/10.1016/j.ipm.2023.103321))
 * Park, M., Lee, Y., & Choi, W. (2022). Understanding the research landscape of information and communication technology integration in dementia-focused assistive technologies: Mining literature from 1970 to 2020. <em>Gerontechnology, 21</em>(1), 1–18. https://doi.org/10.4017/gt.2022.21.1.798.12
 * Choi, W., Kim, S.Y., and Luo, M. (2022). Design matters in web credibility assessment: Interactive design as a social validation tool for online health information seekers. <em>Asian Communication Research, 19</em>(3), 119–138. https://doi.org/10.20879/acr.2022.19.3.119
 * Lee, Y., Choi, W., & Park, M. (2022). Respite service use among dementia and nondementia caregivers: Findings from the National Caregiving in the U.S. 2015 Survey. <em>Journal of Applied Gerontology, 41</em>(6), 1557-1567. https://doi.org/10.1177/07334648221075620
