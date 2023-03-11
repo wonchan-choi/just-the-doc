@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 # About Me
-I am an assistant professor at the School of Information Studies at University of Wisconsin-Milwaukee. My research interests fall under the research areas of human information behavior and human–computer interaction. 
+I am an assistant professor at the School of Information Studies at University of Wisconsin-Milwaukee. My research areas include human information behavior and human–computer interaction. 
 ## Contact Information
 <dl>
   <dt>Email:</dt>
