@@ -6,7 +6,7 @@ layout: default
 # Publications & Presentations
 ## 2023
 - **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing & Management, 60*(3), 103321. [https://doi.org/10.1016/j.ipm.2023.103321](https://doi.org/10.1016/j.ipm.2023.103321)
-- Lee, H. S., & **Choi, W.** (2023). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. iConference 2023
+- Lee, H. S., & **Choi, W.** (2023, March). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. iConference 2023
 
 ## 2022
 - **Choi, W.**, Kim, S. Y., and Luo, M. (2022). Design matters in web credibility assessment: Interactive design as a social validation tool for online health information seekers. *Asian Communication Research, 19*(3), 119–138. [https://doi.org/10.20879/acr.2022.19.3.119](https://doi.org/10.20879/acr.2022.19.3.119)
@@ -17,10 +17,14 @@ layout: default
 
 ## 2021
 - Wang, S., Lee, H. S., & **Choi, W.** (2021). A feature-oriented analysis of developers’ descriptions and user reviews of top mHealth applications for diabetes and hypertension. *International Journal of Medical Informatics, 156*, 104598. [https://doi.org/10.1016/j.ijmedinf.2021.104598](https://doi.org/10.1016/j.ijmedinf.2021.104598)
+- Lee, Y., **Choi, W.**, & Park, M. S. (2021, November). Respite service use among dementia and nondementia caregivers: Findings from the caregiving in the U.S. 2015 survey. *Innovation in Aging, 5*(supplement 1). 951. [https://doi.org/10.1093/geroni/igab046.3433](https://doi.org/10.1093/geroni/igab046.3433)
+- **Choi, W.** & Kim, S. Y. (2021, June). When design matters in credibility assessment of health-related websites. *Annual Meeting of the Korea Speech, Media & Communication Association*
 
 ## 2020
 - **Choi, W.**, Wang, S., Lee, Y., Oh, H., & Zheng, Z. (2020). A systematic review of mobile health technologies to support self-management of concurrent diabetes and hypertension. *Journal of the American Medical Informatics Association, 27*(6), 939–945. [https://doi.org/doi:10.1093/jamia/ocaa029](https://doi.org/doi:10.1093/jamia/ocaa029)
 - **Choi, W.** (2020). Older adults’ credibility assessment of online health information: An exploratory study using an extended typology of web credibility. *Journal of the Association for Information Science and Technology, 71*(11), 1295–1307. [https://doi.org/doi:10.1002/asi.24341](https://doi.org/doi:10.1002/asi.24341)
+- Zheng, Z., Mayesha, M., Oh, H., Lee, Y., & **Choi, W.** (2020, November). Can a robot encourage physical exercise for older adults? A pilot robot-mediated Tai Chi exercise study. *American Medical Informatics Association 2020 Annual Symposium*
+- **Choi, W.**, Kim, S. Y., & Luo, M. (2020, October). Validating an extended typology of web credibility assessment. *Proceedings of the Association for Information Science & Technology, 57*(1), e357. [https://doi.org/10.1002/pra2.357](https://doi.org/10.1002/pra2.357)
 
 ## 2019
 - **Choi, W.** (2019). Older adults’ health information behavior in everyday life settings. *Library & Information Science Research, 41*(4), 100983. [https://doi.org/doi:10.1016/j.lisr.2019.100983](https://doi.org/doi:10.1016/j.lisr.2019.100983)
