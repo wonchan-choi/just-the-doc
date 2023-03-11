@@ -5,7 +5,7 @@ layout: default
 
 # Publications & Presentations
 ## 2023
-- **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. Information Processing & Management, 60(3), 103321. [https://doi.org/10.1016/j.ipm.2023.103321](https://doi.org/10.1016/j.ipm.2023.103321)
+- **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing & Management, 60*(3), 103321. [https://doi.org/10.1016/j.ipm.2023.103321](https://doi.org/10.1016/j.ipm.2023.103321)
 - Lee, H. S., & **Choi, W.** (2023). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. iConference 2023
 
 ## 2022
