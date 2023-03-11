@@ -13,9 +13,7 @@ layout: default
 - **Choi, W.**, Park, M. S., & Lee, Y. (2022). Associations between mastery of life and everyday life information-seeking behavior among older adults: Analysis of the pew research center’s information engaged and information wary survey data. *Journal of the Association for Information Science & Technology, 73*(3), 393-406. [https://doi.org/10.1002/asi.24556](https://doi.org/10.1002/asi.24556)
 - Park, M., Lee, Y., & **Choi, W.** (2022). Understanding the research landscape of information and communication technology integration in dementia-focused assistive technologies: Mining literature from 1970 to 2020. *Gerontechnology, 21*(1), 1–18. [https://doi.org/10.4017/gt.2022.21.1.798.12](https://doi.org/10.4017/gt.2022.21.1.798.12)
 - Lee, Y., **Choi, W.**, & Park, M. (2022). Respite service use among dementia and nondementia caregivers: Findings from the National Caregiving in the U.S. 2015 Survey. *Journal of Applied Gerontology, 41*(6), 1557-1567. [https://doi.org/10.1177/07334648221075620](https://doi.org/10.1177/07334648221075620)
-- **Choi, W.**, & Stvilia, B. (2022, March). Developing a theoretical framework for web credibility assessment—A case of social Q&A sites: Preliminary findings. iConference 2022
-- Choi, W., & Stvilia, B. (2022, March). Developing a theoretical framework for web credibility assessment—A case of social Q&A sites: Preliminary findings. iConference 2022![image](https://user-images.githubusercontent.com/95732091/224512851-8349abb7-3354-43d5-a453-521fe31884c9.png)
-
+- **Choi, W.**, & Stvilia, B. (2022, March). Developing a theoretical framework for web credibility assessment—A case of social Q&A sites: Preliminary findings. *iConference 2022.* [https://hdl.handle.net/2142/113733](https://hdl.handle.net/2142/113733)
 
 ## 2021
 - Wang, S., Lee, H. S., & **Choi, W.** (2021). A feature-oriented analysis of developers’ descriptions and user reviews of top mHealth applications for diabetes and hypertension. *International Journal of Medical Informatics, 156*, 104598. [https://doi.org/10.1016/j.ijmedinf.2021.104598](https://doi.org/10.1016/j.ijmedinf.2021.104598)
