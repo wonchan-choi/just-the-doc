@@ -29,7 +29,7 @@ layout: default
 - **Choi, W.** (2019). Older adults’ health information behavior in everyday life settings. *Library & Information Science Research, 41*(4), 100983. [https://doi.org/doi:10.1016/j.lisr.2019.100983](https://doi.org/doi:10.1016/j.lisr.2019.100983)
 - **Choi, W.**, Zheng, H., Franklin, P. & Tulu, B. (2019). mHealth technologies for osteoarthritis self-management and treatment: A systematic review. *Health Informatics Journal, 25*(3), 984-1003. [https://doi.org/doi:10.1177/1460458217735676](https://doi.org/doi:10.1177/1460458217735676)
 - Oh, H., Lee, Y., **Choi, W.**, Zheng, Z. (2019, November). Challenges in self-management among older adults with hypertension and diabetes. Gerontological Society of America 2019 Annual Scientific Meeting, Austin, TX.
-- **Choi, W.** & Haigh, M. (2019, October). Analyzing divergent methodologies for political fact checking: United States and South Korea. *Proceedings of the Association for Information Science & Technology, 56*(1), 627-628. [https://doi.org/10.1002/pra2.112](https://doi.org/10.1002/pra2.112)
+- **Choi, W.**, & Haigh, M. (2019, October). Analyzing divergent methodologies for political fact checking: United States and South Korea. *Proceedings of the Association for Information Science & Technology, 56*(1), 627-628. [https://doi.org/10.1002/pra2.112](https://doi.org/10.1002/pra2.112)
 - Wang, S., Lee, H. S., & **Choi, W.** (2019). Assessing the informativeness of user reviews on mobile health applications for chronic diseases. *Proceedings of the Association for Information Science & Technology, 56*(1), 790-791. [https://doi.org/10.1002/pra2.178](https://doi.org/10.1002/pra2.178)
 
 ## 2017
