@@ -9,6 +9,8 @@ I am an assistant professor at the School of Information Studies at University o
 * Information credibility on social media
 
 {: .highlight }
+**Contact Information**
 E-mail: wchoi[at]uwm[dot]edu
+
 Address: NWQD #2890, 2025 E Newport Ave, Milwaukee, WI 53211
 
