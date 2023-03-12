@@ -3,10 +3,10 @@ title: Publications
 layout: default
 ---
 
-# Publications & Presentations
+# Publications
 ## 2023
 - **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing & Management, 60*(3), 103321. [https://doi.org/10.1016/j.ipm.2023.103321](https://doi.org/10.1016/j.ipm.2023.103321)
-- Lee, H. S., & **Choi, W.** (2023, March). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. iConference 2023
+- Lee, H. S., & **Choi, W.** (2023, March). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023.*
 
 ## 2022
 - **Choi, W.**, Kim, S. Y., and Luo, M. (2022). Design matters in web credibility assessment: Interactive design as a social validation tool for online health information seekers. *Asian Communication Research, 19*(3), 119–138. [https://doi.org/10.20879/acr.2022.19.3.119](https://doi.org/10.20879/acr.2022.19.3.119)
@@ -18,7 +18,6 @@ layout: default
 ## 2021
 - Wang, S., Lee, H. S., & **Choi, W.** (2021). A feature-oriented analysis of developers’ descriptions and user reviews of top mHealth applications for diabetes and hypertension. *International Journal of Medical Informatics, 156*, 104598. [https://doi.org/10.1016/j.ijmedinf.2021.104598](https://doi.org/10.1016/j.ijmedinf.2021.104598)
 - Lee, Y., **Choi, W.**, & Park, M. S. (2021, November). Respite service use among dementia and nondementia caregivers: Findings from the caregiving in the U.S. 2015 survey. *Innovation in Aging, 5*(supplement 1). 951. [https://doi.org/10.1093/geroni/igab046.3433](https://doi.org/10.1093/geroni/igab046.3433)
-- **Choi, W.** & Kim, S. Y. (2021, June). When design matters in credibility assessment of health-related websites. *Annual Meeting of the Korea Speech, Media & Communication Association*
 
 ## 2020
 - **Choi, W.**, Wang, S., Lee, Y., Oh, H., & Zheng, Z. (2020). A systematic review of mobile health technologies to support self-management of concurrent diabetes and hypertension. *Journal of the American Medical Informatics Association, 27*(6), 939–945. [https://doi.org/doi:10.1093/jamia/ocaa029](https://doi.org/doi:10.1093/jamia/ocaa029)
@@ -30,8 +29,8 @@ layout: default
 - **Choi, W.** (2019). Older adults’ health information behavior in everyday life settings. *Library & Information Science Research, 41*(4), 100983. [https://doi.org/doi:10.1016/j.lisr.2019.100983](https://doi.org/doi:10.1016/j.lisr.2019.100983)
 - **Choi, W.**, Zheng, H., Franklin, P. & Tulu, B. (2019). mHealth technologies for osteoarthritis self-management and treatment: A systematic review. *Health Informatics Journal, 25*(3), 984-1003. [https://doi.org/doi:10.1177/1460458217735676](https://doi.org/doi:10.1177/1460458217735676)
 - Oh, H., Lee, Y., **Choi, W.**, Zheng, Z. (2019, November). Challenges in self-management among older adults with hypertension and diabetes. Gerontological Society of America 2019 Annual Scientific Meeting, Austin, TX.
-- **Choi, W.** & Haigh, M. (2019, October). Analyzing divergent methodologies for political fact checking: United States and South Korea. 82nd Annual Meeting of the Association for Information Science & Technology, Melbourne, Australia.
-- Wang, S., Lee, H. S., & **Choi, W.** (2019, October). Assessing the informativeness of user reviews on mobile health applications for chronic diseases. 82nd Annual Meeting of the Association for Information Science & Technology, Melbourne, Australia.
+- **Choi, W.** & Haigh, M. (2019, October). Analyzing divergent methodologies for political fact checking: United States and South Korea. *Proceedings of the Association for Information Science & Technology, 56*(1), 627-628. [https://doi.org/10.1002/pra2.112](https://doi.org/10.1002/pra2.112)
+- Wang, S., Lee, H. S., & **Choi, W.** (2019). Assessing the informativeness of user reviews on mobile health applications for chronic diseases. *Proceedings of the Association for Information Science & Technology, 56*(1), 790-791. [https://doi.org/10.1002/pra2.178](https://doi.org/10.1002/pra2.178)
 
 ## 2017
 - Zheng, H., Tulu, B., **Choi, W.**, & Franklin, P. (2017). Using mHealth app to support treatment decision making for knee arthritis: Patient perspective. *eGEMs, 5*(2). [https://doi.org/doi:10.13063/2327-9214.1284](https://doi.org/doi:10.13063/2327-9214.1284)
