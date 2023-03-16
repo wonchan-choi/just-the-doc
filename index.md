@@ -3,6 +3,7 @@ title: Home
 layout: home
 ---
 # Home
+![Wonchan Choi](/assets/images/wonchan_choi_cropped_and_resized.jpg)
 I am an assistant professor at the School of Information Studies at University of Wisconsin-Milwaukee. My research ares are human information behavior and human–computer interaction.
 ## Contact Information
 * Email: wchoi[at]uwm[dot]edu
