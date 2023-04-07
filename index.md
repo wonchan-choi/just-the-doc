@@ -3,11 +3,9 @@ title: Home
 layout: home
 ---
 # Home
-![Image of Wonchan Choi](assets/images/wchoi_gp_60.png)
-
 I am an assistant professor at the School of Information Studies at University of Wisconsin-Milwaukee (UWM). I completed a PhD in information studies from Florida State University. Before joing UWM, I was a post-doctoral fellow at the Business School, Worcester Polytitechic Institute.
 
-wchoi@uwm.edu | [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en) | 414-251-5753 (Teams)
+![Image of Wonchan Choi](assets/images/wchoi_gp_60.png) | wchoi@uwm.edu | [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en)
 
 # Research
 I am broadly intersted in human information behavior and human–computer interaction. My current projects focus on:
