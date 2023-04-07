@@ -14,12 +14,12 @@ I am an assistant professor at the School of Information Studies at University o
 - [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en)
 - Phone: 414-251-5753 (Teams)
 
-# Research
+## Research
 I am broadly intersted in human information behavior and human–computer interaction. My current projects focus on:
 - Information credibility evaluation on interactive knolwedge production platforms
 - Usability and accessibility of information systems for diverse users in different contexts
 
-# Recent Publications 
+## Recent Publications 
 - **Choi, W.**, Stvilia, B., & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing & Management, 60*(3), 103321. [https://doi.org/10.1016/j.ipm.2023.103321](https://doi.org/10.1016/j.ipm.2023.103321)
 - **Choi, W.**, Kim, S. Y., and Luo, M. (2022). Design matters in web credibility assessment: Interactive design as a social validation tool for online health information seekers. *Asian Communication Research, 19*(3), 119–138. [https://doi.org/10.20879/acr.2022.19.3.119](https://doi.org/10.20879/acr.2022.19.3.119)
 - **Choi, W.**, Park, M. S., & Lee, Y. (2022). Associations between mastery of life and everyday life information-seeking behavior among older adults: Analysis of the pew research center’s information engaged and information wary survey data. *Journal of the Association for Information Science & Technology, 73*(3), 393-406. [https://doi.org/10.1002/asi.24556](https://doi.org/10.1002/asi.24556)
