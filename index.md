@@ -3,7 +3,8 @@ title: Home
 layout: home
 ---
 # About Me
-＜img src="https://user-images.githubusercontent.com/95732091/230676362-e3b33c42-0c5c-484b-a8f1-1c20a5f1345c.jpg" width="500" height="300"＞
+
+＜img src="https://user-images.githubusercontent.com/95732091/230676362-e3b33c42-0c5c-484b-a8f1-1c20a5f1345c.jpg" width="500" height="300" /＞
 
 I am an assistant professor at the School of Information Studies at University of Wisconsin-Milwaukee (UWM). I completed a PhD in information studies from Florida State University. Before joing UWM, I was a post-doctoral fellow at the Business School, Worcester Polytitechic Institute.
 
