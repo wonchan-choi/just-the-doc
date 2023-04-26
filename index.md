@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-![Image of Wonchan Choi](assets/images/wonchan_noBackground_sm.png) 
+![Image of Wonchan Choi](assets/images/wonchan_noBackground_xsm.png) 
 
 I am an assistant professor at the School of Information Studies at University of Wisconsin-Milwaukee (UWM). I completed a PhD in information studies from Florida State University. Before joining UWM, I was a post-doctoral fellow at the Business School, Worcester Polytitechic Institute in Massachussetts.
 
