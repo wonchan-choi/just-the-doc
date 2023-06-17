@@ -7,7 +7,7 @@ I am an assistant professor at the School of Information Studies at University o
 - Information credibility evaluation on interactive knolwedge production platforms
 - Usability and accessibility of information systems for diverse users 
 
-![Book logo](/assets/images/wonchan_noBackground_xsm.png)
+<img align="left" src="/assets/images/wonchan_noBackground_xsm.png" alt="My Image">
 
 2025 E Newport Ave
 NWQD-2890
