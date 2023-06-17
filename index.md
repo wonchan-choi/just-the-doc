@@ -2,7 +2,6 @@
 title: Home
 layout: home
 ---
-# Home
 ![Wonchan Choi](/assets/images/wchoi_gp_60.png)
 
 I am an assistant professor at the School of Information Studies at the University of Wisconsin-Milwaukee (UWM). I am broadly interested in human information behavior and human–computer interaction. My current projects focus on:
