@@ -13,5 +13,4 @@ I am an assistant professor at the School of Information Studies at the Universi
 - Phone: (414)251-5753
 - Office: [NWQD 2890](https://goo.gl/maps/jv2apYoVrdEStQ2k8)
 - [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en)
-## Visitors
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=a2afb7&w=a&t=tt&d=Buia3_aP6HE9HUvnNVOCjl51F8oLJBl4jj6v4tYFxDE&co=ffffff&cmo=86cfed&cmn=3a76cc&ct=000000'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=9ba7b5&w=a&t=n&d=Buia3_aP6HE9HUvnNVOCjl51F8oLJBl4jj6v4tYFxDE&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
