@@ -16,4 +16,4 @@ I am an assistant professor at the School of Information Studies at the Universi
 
 Second version
 
-<a href='https://clustrmaps.com/site/1bv78'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=92a5ba&w=200&t=m&d=Buia3_aP6HE9HUvnNVOCjl51F8oLJBl4jj6v4tYFxDE&co=ffffff&ct=808080'/></a>
+<a href='https://clustrmaps.com/site/1bv78'  title='Visit tracker'><img align="left" src='//clustrmaps.com/map_v2.png?cl=92a5ba&w=200&t=m&d=Buia3_aP6HE9HUvnNVOCjl51F8oLJBl4jj6v4tYFxDE&co=ffffff&ct=808080'/></a>
