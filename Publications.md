@@ -5,6 +5,9 @@ layout: default
 
 # Publications
 ## 2023
+- Zheng, Z., Oh, H., Mim, M., **Choi, W.**, & Lee, Y. (2023). An exploration of robot-mediated Tai Chi exercise for older adults. *Applied Sciences, 13*(9), 5306. [[Full-text]](https://doi.org/10.3390/app13095306)
+- **Choi, W.**, & Zhu, L. (2023, October). Preliminary findings on developing a scale for credibility assessment on interactive web platforms. 86th Annual Meeting of the Association for Information Science & Technology, London, United Kingdom.
+- **Choi, W.**, Zhang, Y., & Stvilia, B. (2023, October). Exploring applications and user experience with generative AI tools: A content analysis of reddit posts on ChatGPT. 86th Annual Meeting of the Association for Information Science & Technology, London, United Kingdom. 
 - **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing & Management, 60*(3), 103321. [https://doi.org/10.1016/j.ipm.2023.103321](https://doi.org/10.1016/j.ipm.2023.103321)
 - Lee, H. S., & **Choi, W.** (2023, March). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023.*
 
