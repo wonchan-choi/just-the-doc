@@ -67,12 +67,11 @@ layout: default
 - **Choi, W.**, Carranza, J., & Fox, M. (2013, November). Guidelines for older-adult-friendly online tutorial for Facebook: Content, design, and training principles. 76th Annual Meeting of the Association for Information Science and Technology, Montreal, Canada.
 - Oh, S., **Choi, W.**, & Valisa, S. (2013, November). The Sonzogno digital library project. 76th Annual Meeting of the Association for Information Science and Technology, Montreal, Canada. 
 - Lee, J., & **Choi, W.** (2013, November). Difference in citation rates by subject areas of LIS in Korea. 76th Annual Meeting of the Association for Information Science and Technology, Montreal, Canada. 
-- **Choi, W.** (2013, November). Credibility assessment of online resources and perceived quality of mobile applications. ASIS&T SIG-USE Symposium—Ignite Talk, Montreal, Canada.
-- **Choi, W.** (2013, May). What makes online health information credible for older adults?: An exploratory study. 2013 ACM CHI Conference on Human Factors in Computing Systems, Paris, France.
-
+- **Choi, W.** (2013). Credibility assessment of online resources and perceived quality of mobile applications. ASIS&T SIG-USE Symposium—Ignite Talk, Montreal, Canada.
+- **Choi, W.** (2013). What makes online health information credible for older adults?: An exploratory study. *CHI 2013* [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2468356.2479491)] [[ACM DL](https://dl.acm.org/doi/10.1145/2468356.2479491)]
 ## 2012
-- Baeg, J. H., **Choi, W.**, Lee, D. J., & Lee, J. (2012, February). The impact of the public library on early reading achievement: Using the early childhood longitudinal study (ECLS) 1st grade student sample. iConference 2012, Toronto, Canada.
-- **Choi, W.** (2012, February). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. iConference 2012, Toronto, Canada. [Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132313)
+- Baeg, J. H., **Choi, W.**, Lee, D. J., & Lee, J. (2012). The impact of the public library on early reading achievement: Using the early childhood longitudinal study (ECLS) 1st grade student sample. *iConference 2012.* [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132279)] [[ACM DL](https://dl.acm.org/doi/10.1145/2132176.2132279)]
+- **Choi, W.** (2012). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. *iConference 2012.* [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132313)] [[ACM DL](https://dl.acm.org/doi/10.1145/2132176.2132313)]
 
 ## 2008
 - Chang, D. H., & **Choi, W.** (2008). Developing and testing of an e-journal evaluation model for university libraries. *Journal of the Korean Society for Information Management, 25*(4), 165–184. [[Full-Text](https://accesson.kr/kosim/assets/pdf/391/journal-25-4-165.pdf)] [[Journal Site](https://accesson.kr/kosim/v.25/4/165/391)]
