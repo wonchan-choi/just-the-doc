@@ -72,8 +72,8 @@ layout: default
 
 ## 2012
 - Baeg, J. H., **Choi, W.**, Lee, D. J., & Lee, J. (2012, February). The impact of the public library on early reading achievement: Using the early childhood longitudinal study (ECLS) 1st grade student sample. iConference 2012, Toronto, Canada.
-- **Choi, W.** (2012, February). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. iConference 2012, Toronto, Canada.
+- **Choi, W.** (2012, February). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. iConference 2012, Toronto, Canada. [Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132313)
 
 ## 2008
-- Chang, D. H., & **Choi, W.** (2008). Developing and testing of an e-journal evaluation model for university libraries. *Journal of the Korean Society for Information Management, 25*(4), 165–184. [https://doi.org/doi:10.3743/KOSIM.2008.25.4.165](https://doi.org/doi:10.3743/KOSIM.2008.25.4.165)
-- Chang, D. H., & **Choi, W.** (2008). Trends in integrated electronic resource management in academic libraries. *Journal of the Korean Society for Library and Information Science, 42*(4), 201–221. [PDF](https://koreascience.kr/article/JAKO200815541062975.pdf)
+- Chang, D. H., & **Choi, W.** (2008). Developing and testing of an e-journal evaluation model for university libraries. *Journal of the Korean Society for Information Management, 25*(4), 165–184. [Full-Text](https://doi.org/doi:10.3743/KOSIM.2008.25.4.165)
+- Chang, D. H., & **Choi, W.** (2008). Trends in integrated electronic resource management in academic libraries. *Journal of the Korean Society for Library and Information Science, 42*(4), 201–221. [Full-Text](https://koreascience.kr/article/JAKO200815541062975.pdf)
