@@ -75,5 +75,5 @@ layout: default
 - **Choi, W.** (2012, February). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. iConference 2012, Toronto, Canada. [Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132313)
 
 ## 2008
-- Chang, D. H., & **Choi, W.** (2008). Developing and testing of an e-journal evaluation model for university libraries. *Journal of the Korean Society for Information Management, 25*(4), 165–184. [Full-Text](https://doi.org/doi:10.3743/KOSIM.2008.25.4.165)
+- Chang, D. H., & **Choi, W.** (2008). Developing and testing of an e-journal evaluation model for university libraries. *Journal of the Korean Society for Information Management, 25*(4), 165–184. [[Full-Text](https://accesson.kr/kosim/assets/pdf/391/journal-25-4-165.pdf)] [[Journal Site](https://accesson.kr/kosim/v.25/4/165/391)]
 - Chang, D. H., & **Choi, W.** (2008). Trends in integrated electronic resource management in academic libraries. *Journal of the Korean Society for Library and Information Science, 42*(4), 201–221. [[Full-Text](https://koreascience.kr/article/JAKO200815541062975.pdf)] [[KoreaScience DL](https://doi.org/10.4275/KSLIS.2008.42.4.201)]
