@@ -76,5 +76,4 @@ layout: default
 
 ## 2008
 - Chang, D. H., & **Choi, W.** (2008). Developing and testing of an e-journal evaluation model for university libraries. *Journal of the Korean Society for Information Management, 25*(4), 165–184. [https://doi.org/doi:10.3743/KOSIM.2008.25.4.165](https://doi.org/doi:10.3743/KOSIM.2008.25.4.165)
-- Chang, D. H., & **Choi, W.** (2008). Trends in integrated electronic resource management in academic libraries. *Journal of the Korean Society for Library and Information Science, 42*(4), 201–221. [https://doi.org/doi:10.4275/KSLIS.2008.42.4.201](https://doi.org/doi:10.4275/KSLIS.2008.42.4.201)
-- Content text <a href="another.pdf">PDF link</a> content text continues.
+- Chang, D. H., & **Choi, W.** (2008). Trends in integrated electronic resource management in academic libraries. *Journal of the Korean Society for Library and Information Science, 42*(4), 201–221. [https://koreascience.kr/article/JAKO200815541062975.pdf](PDF)
