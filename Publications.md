@@ -71,8 +71,8 @@ layout: default
 
 ## 2012
 - Baeg, J. H., **Choi, W.**, Lee, D. J., & Lee, J. (2012). The impact of the public library on early reading achievement: Using the early childhood longitudinal study (ECLS) 1st grade student sample. *iConference 2012.* [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132279)] [[ACM DL](https://dl.acm.org/doi/10.1145/2132176.2132279)]
-- **Choi, W.** (2012). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. *iConference 2012.* [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132313)] [[ACM DL](https://dl.acm.org/doi/10.1145/2132176.2132313)]
+- **Choi, W.** (2012). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. *iConference 2012.* [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132313)] [[Poster]()]
 
 ## 2008
-- Chang, D. H., & **Choi, W.** (2008). Developing and testing of an e-journal evaluation model for university libraries. *Journal of the Korean Society for Information Management, 25*(4), 165–184. [[Full-Text](https://accesson.kr/kosim/assets/pdf/391/journal-25-4-165.pdf)] [[Journal Site](https://accesson.kr/kosim/v.25/4/165/391)]
-- Chang, D. H., & **Choi, W.** (2008). Trends in integrated electronic resource management in academic libraries. *Journal of the Korean Society for Library and Information Science, 42*(4), 201–221. [[Full-Text](https://koreascience.kr/article/JAKO200815541062975.pdf)] [[KoreaScience DL](https://doi.org/10.4275/KSLIS.2008.42.4.201)]
+- Chang, D. H., & **Choi, W.** (2008). Developing and testing of an e-journal evaluation model for university libraries. *Journal of the Korean Society for Information Management, 25*(4), 165–184. [[Full-Text](https://accesson.kr/kosim/assets/pdf/391/journal-25-4-165.pdf)]
+- Chang, D. H., & **Choi, W.** (2008). Trends in integrated electronic resource management in academic libraries. *Journal of the Korean Society for Library and Information Science, 42*(4), 201–221. [[Full-Text](https://koreascience.kr/article/JAKO200815541062975.pdf)]
