@@ -63,15 +63,15 @@ layout: default
 - **Choi, W.**, & Stvilia, B. (2014, March). College students’ value structure of choosing and using mobile health/wellness applications: Preliminary findings. iConference 2014, Berlin, Germany.
 
 ## 2013
-- **Choi, W.**, & Stvilia, B. (2013, November). Use of mobile wellness applications and perception of quality. 76th Annual Meeting of the Association for Information Science and Technology, Montreal, Canada. 
-- **Choi, W.**, Carranza, J., & Fox, M. (2013, November). Guidelines for older-adult-friendly online tutorial for Facebook: Content, design, and training principles. 76th Annual Meeting of the Association for Information Science and Technology, Montreal, Canada.
-- Oh, S., **Choi, W.**, & Valisa, S. (2013, November). The Sonzogno digital library project. 76th Annual Meeting of the Association for Information Science and Technology, Montreal, Canada. 
-- Lee, J., & **Choi, W.** (2013, November). Difference in citation rates by subject areas of LIS in Korea. 76th Annual Meeting of the Association for Information Science and Technology, Montreal, Canada. 
-- **Choi, W.** (2013). What makes online health information credible for older adults?: An exploratory study. *CHI 2013* [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2468356.2479491)] [[ACM DL](https://dl.acm.org/doi/10.1145/2468356.2479491)]
+- **Choi, W.**, & Stvilia, B. (2013, November). Use of mobile wellness applications and perception of quality. *ASIST 2013*. [[ACM DL](https://dl.acm.org/doi/10.5555/2655780.2655928)] [[Full-Text](https://dl.acm.org/doi/pdf/10.5555/2655780.2655928)] [[Poster](assets/pubs/2013-ASIST-Poster-Mobile-App.pdf)]
+- **Choi, W.**, Carranza, J., & Fox, M. (2013, November). Guidelines for older-adult-friendly online tutorial for Facebook: Content, design, and training principles. *ASIST 2013*. [[ACM DL](https://dl.acm.org/doi/10.5555/2655780.2655929)] [[Full-Text](https://dl.acm.org/doi/pdf/10.5555/2655780.2655929)] [[Poster](assets/pubs/2013-ASIST-Poster-Facebook.pdf)]
+- Oh, S., **Choi, W.**, & Valisa, S. (2013, November). The Sonzogno digital library project. *ASIST 2013*. [[ACM DL](https://dl.acm.org/doi/10.5555/2655780.2655919)] [[Full-Text](https://dl.acm.org/doi/pdf/10.5555/2655780.2655919)]  
+- Lee, J., & **Choi, W.** (2013). Difference in citation rates by subject areas of LIS in Korea. *ASIST 2013*. [[ACM DL](https://dl.acm.org/doi/10.5555/2655780.2655931)] [[Full-Text](https://dl.acm.org/doi/pdf/10.5555/2655780.2655931)]
+- **Choi, W.** (2013). What makes online health information credible for older adults?: An exploratory study. *CHI 2013*. [[ACM DL](https://dl.acm.org/doi/10.1145/2468356.2479491)] [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2468356.2479491)] [[Poster](assets/pubs/2013-CHI-Poster.pdf)]
 
 ## 2012
-- Baeg, J. H., **Choi, W.**, Lee, D. J., & Lee, J. (2012). The impact of the public library on early reading achievement: Using the early childhood longitudinal study (ECLS) 1st grade student sample. *iConference 2012.* [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132279)] [[ACM DL](https://dl.acm.org/doi/10.1145/2132176.2132279)]
-- **Choi, W.** (2012). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. *iConference 2012.* [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132313)] [[Poster](assets/pubs/2012-iConference-Poster.pdf)]
+- Baeg, J. H., **Choi, W.**, Lee, D. J., & Lee, J. (2012). The impact of the public library on early reading achievement: Using the early childhood longitudinal study (ECLS) 1st grade student sample. *iConference 2012*. [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132279)]
+- **Choi, W.** (2012). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. *iConference 2012*. [[Full-Text](https://dl.acm.org/doi/pdf/10.1145/2132176.2132313)] [[Poster](assets/pubs/2012-iConference-Poster.pdf)]
 
 ## 2008
 - Chang, D. H., & **Choi, W.** (2008). Developing and testing of an e-journal evaluation model for university libraries. *Journal of the Korean Society for Information Management, 25*(4), 165–184. [[Full-Text](https://accesson.kr/kosim/assets/pdf/391/journal-25-4-165.pdf)]
