@@ -9,7 +9,7 @@ layout: default
 - **Choi, W.**, & Zhu, L. (2023, October). Preliminary findings on developing a scale for credibility assessment on interactive web platforms. 86th Annual Meeting of the Association for Information Science & Technology, London, United Kingdom.
 - **Choi, W.**, Zhang, Y., & Stvilia, B. (2023, October). Exploring applications and user experience with generative AI tools: A content analysis of reddit posts on ChatGPT. 86th Annual Meeting of the Association for Information Science & Technology, London, United Kingdom. 
 - **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing & Management, 60*(3), 103321. [[Full-text]](https://doi.org/10.1016/j.ipm.2023.103321)
-- Lee, H. S., & **Choi, W.** (2023, March). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023.* [Full-Text](Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings)
+- Lee, H. S., & **Choi, W.** (2023, March). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023.* [Full-Text | Slides](https://www.ideals.illinois.edu/items/126389)
 
 ## 2022
 - **Choi, W.**, Kim, S. Y., and Luo, M. (2022). Design matters in web credibility assessment: Interactive design as a social validation tool for online health information seekers. *Asian Communication Research, 19*(3), 119–138. [https://doi.org/10.20879/acr.2022.19.3.119](https://doi.org/10.20879/acr.2022.19.3.119)
