@@ -5,8 +5,10 @@ layout: default
 
 # Publications
 ## Peer-reviewed Journal Papers
+### 2023
 - **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *IP&M, 60*(3), 103321. [ACM DL](https://dl.acm.org/doi/abs/10.1016/j.ipm.2023.103321) &#124; [Full text](assets/pubs/2023-IPM-Preprint-WebCred.pdf)
 - Zheng, Z., Oh, H., Mim, M., **Choi, W.**, & Lee, Y. (2023). An exploration of robot-mediated Tai Chi exercise for older adults. *Applied Sciences, 13*(9), 5306. [MDPI](https://www.mdpi.com/2076-3417/13/9/5306) &#124; [Full text](assets/pubs/2023-AS-Paper-Robot-TaiChi.pdf)
+### 2022
 - **Choi, W.**, Kim, S. Y., and Luo, M. (2022). Design matters in web credibility assessment: Interactive design as a social validation tool for online health information seekers. *Asian Communication Research, 19*(3), 119–138. [DBPia] (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11179587&language=ko_KR&hasTopBanner=true) &#124; [Full text](https://acr.comm.or.kr/xml/35042/35042.pdf)
 - **Choi, W.**, Park, M. S., & Lee, Y. (2022). Associations between mastery of life and everyday life information-seeking behavior among older adults: Analysis of the Pew Research Center’s information engaged and information wary survey data. *JASIST, 73*(3), 393-406. [ASIST DL](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24556) &#124; [Full text]
 - Park, M., Lee, Y., & **Choi, W.** (2022). Understanding the research landscape of information and communication technology integration in dementia-focused assistive technologies: Mining literature from 1970 to 2020. *Gerontechnology, 21*(1), 1–18. [Gerontechnology](https://journal.gerontechnology.org/currentIssueContent.aspx?aid=3330) &#124; [Full text](https://journal.gerontechnology.org/archives/29a258ebbc7940008f4d2acc7663f2f0.pdf)
