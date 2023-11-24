@@ -11,7 +11,22 @@ I am broadly interested in human information behavior and human–computer inter
 - Information credibility evaluation on interactive knowledge production platforms
 - Usability and accessibility of information systems for diverse users
 
-The best method to contact me is via email (wchoi@uwm.edu). Here's my [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en) profile page. 
+The best method to contact me is via email (wchoi@uwm.edu). Here's my [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en) profile page.
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    ![Wonchan Choi](/assets/images/wchoi_gp_60.png)
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    I am an assistant professor at the School of Information Studies at the University of Wisconsin-Milwaukee (UWM). I completed a PhD in Information Studies at Florida State University. Prior to joining UWM, I worked as a postdoctoral fellow at the Business School at Worcester Polytechnic Institute in Massachusetts.
+
+    I am broadly interested in human information behavior and human–computer interaction. My current projects focus on:
+    - Information credibility evaluation on interactive knowledge production platforms
+    - Usability and accessibility of information systems for diverse users
+
+    The best method to contact me is via email (wchoi@uwm.edu). Here's my [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en) profile page.
+  </div>
+</div>
 
 ## Updates
 - [2023.10.30–11.01] Attended the 2023 Annual Meeting of ASIST in London, UK
