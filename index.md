@@ -5,11 +5,10 @@ layout: home
 <style>
   /* Default styles */
   .flex-container {
-    background-color: #4682F2;
+    background-color: #F5F6FA;
     padding: 20px;
     display: flex;
     align-items: center;
-    color: white;
   }
 
   /* Image styles for small screens (up to 767px width) */
@@ -31,13 +30,12 @@ layout: home
     <img src="/assets/images/wchoi_gp_60.png" alt="Wonchan Choi">
   </div>
   <div style="flex: 2; padding-left: 20px;">
-I am an assistant professor at the School of Information Studies at the University of Wisconsin-Milwaukee (UWM). I am broadly interested in the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. I emphasize the role of people as the central actors in interactions among the three components of information science and technology (IST). People (users) are therefore considered the starting and end points of my research. Technology is seen as the interface through which users access information or the medium for delivering information and information services to users.
-
+I am an assistant professor at the <a href="https://uwm.edu/informationstudies/">School of Information Studies</a> at the University of Wisconsin-Milwaukee (UWM). I completed a PhD in Information Studies at Florida State University. Prior to joining UWM, I worked as a postdoctoral fellow at the Business School at Worcester Polytechnic Institute in Massachusetts.
+I am broadly interested in <b>human-computer interaction</b> and <b>human-computer interaction</b>. 
   </div>
 </div>
 
 ## Contact Information
-I completed a PhD in Information Studies at Florida State University. Prior to joining UWM, I worked as a postdoctoral fellow at the Business School at Worcester Polytechnic Institute in Massachusetts.
 
 I am broadly interested in <b>human information behavior</b> and <b>human–computer interaction</b>. 
 
