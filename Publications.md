@@ -3,15 +3,15 @@ title: Publications
 layout: default
 ---
 
-# Journals and Conference Proceedings
-## 2023
-- An exploration of robot-mediated Tai Chi exercise for older adults. <br>Zheng, Z., Oh, H., Mim, M., **Choi, W.**, & Lee, Y. (2023). <br>*Applied Sciences, 13*(9), 5306. [MDPI DL](https://www.mdpi.com/2076-3417/13/9/5306) &#124; [Full text](assets/pubs/2023-AS-Paper-Robot-TaiChi.pdf)
+# Publications
+## Journal Papers
+- Zheng, Z., Oh, H., Mim, M., **Choi, W.**, & Lee, Y. (2023). An exploration of robot-mediated Tai Chi exercise for older adults. *Applied Sciences, 13*(9), 5306. [MDPI DL](https://www.mdpi.com/2076-3417/13/9/5306) &#124; <i class="fa fa-file-pdf-o" aria-hidden="true"></i>[Full text](assets/pubs/2023-AS-Paper-Robot-TaiChi.pdf)
 - **Choi, W.**, & Zhu, L. (2023). Preliminary findings on developing a scale for credibility assessment on interactive web platforms. *ASIST 2023 (London, UK)*. [Full text](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/pra2.901) &#124; [Poster](assets/pubs/2023-ASIST-Poster-Scale-Dev.pdf)
 - **Choi, W.**, Zhang, Y., & Stvilia, B. (2023). Exploring applications and user experience with generative AI tools: A content analysis of Reddit posts on ChatGPT. *ASIST 2023 (London, UK)*. [[Full-Text](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/pra2.823)] [[Slides](assets/pubs/2023-ASIST-ShortPaper.pdf)]
 - **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *IP&M, 60*(3), 103321. [[Full-Text](assets/pubs/2023-IPM-Preprint-WebCred.pdf)] [[ScienceDirect DL](https://www.sciencedirect.com/science/article/pii/S0306457323000584?via%3Dihub)]
 - Lee, H. S., & **Choi, W.** (2023). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023 (Virtual).* [[Full-Text](https://www.ideals.illinois.edu/items/126389)] [[Poster](assets/pubs/2023-iConference-Poster.pdf)]
 
-## 2022
+## Conference Papers and Posters
 - **Choi, W.**, Kim, S. Y., and Luo, M. (2022). Design matters in web credibility assessment: Interactive design as a social validation tool for online health information seekers. *Asian Communication Research, 19*(3), 119–138. [[Full-Text](https://acr.comm.or.kr/xml/35042/35042.pdf)]
 - **Choi, W.**, Park, M. S., & Lee, Y. (2022). Associations between mastery of life and everyday life information-seeking behavior among older adults: Analysis of the Pew Research Center’s information engaged and information wary survey data. *JASIST, 73*(3), 393-406. [[Full-Text]()] [[ASIST DL](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24556)]
 - Park, M., Lee, Y., & **Choi, W.** (2022). Understanding the research landscape of information and communication technology integration in dementia-focused assistive technologies: Mining literature from 1970 to 2020. *Gerontechnology, 21*(1), 1–18. [[Full-Text](https://journal.gerontechnology.org/archives/29a258ebbc7940008f4d2acc7663f2f0.pdf)]
