@@ -15,10 +15,11 @@ My current projects focus on:
     - Information credibility evaluation on interactive knowledge production platforms
     - Usability and accessibility of information systems for diverse users
 
-    The best method to contact me is via email (wchoi@uwm.edu). Here's my [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en) profile page.
+The best method to contact me is via email (wchoi@uwm.edu). Here's my [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en) profile page.
   </div>
 </div>
 
+## Contact Information
 
 
 ## Updates
