@@ -5,8 +5,8 @@ layout: default
 
 # Journals and Conference Proceedings
 ## 2023
-- Zheng, Z., Oh, H., Mim, M., **Choi, W.**, & Lee, Y. (2023). An exploration of robot-mediated Tai Chi exercise for older adults. *Applied Sciences, 13*(9), 5306. [MDPI DL](https://www.mdpi.com/2076-3417/13/9/5306)&#124;[Full text](assets/pubs/2023-AS-Paper-Robot-TaiChi.pdf)
-- **Choi, W.**, & Zhu, L. (2023). Preliminary findings on developing a scale for credibility assessment on interactive web platforms. *ASIST 2023 (London, UK)*. [Full text](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/pra2.901)&#124;[Poster](assets/pubs/2023-ASIST-Poster-Scale-Dev.pdf)
+- Zheng, Z., Oh, H., Mim, M., **Choi, W.**, & Lee, Y. (2023). An exploration of robot-mediated Tai Chi exercise for older adults. *Applied Sciences, 13*(9), 5306. [MDPI DL](https://www.mdpi.com/2076-3417/13/9/5306) &#124; [Full text](assets/pubs/2023-AS-Paper-Robot-TaiChi.pdf)
+- **Choi, W.**, & Zhu, L. (2023). Preliminary findings on developing a scale for credibility assessment on interactive web platforms. *ASIST 2023 (London, UK)*. [Full text](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/pra2.901) &#124; [Poster](assets/pubs/2023-ASIST-Poster-Scale-Dev.pdf)
 - **Choi, W.**, Zhang, Y., & Stvilia, B. (2023). Exploring applications and user experience with generative AI tools: A content analysis of Reddit posts on ChatGPT. *ASIST 2023 (London, UK)*. [[Full-Text](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/pra2.823)] [[Slides](assets/pubs/2023-ASIST-ShortPaper.pdf)]
 - **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *IP&M, 60*(3), 103321. [[Full-Text](assets/pubs/2023-IPM-Preprint-WebCred.pdf)] [[ScienceDirect DL](https://www.sciencedirect.com/science/article/pii/S0306457323000584?via%3Dihub)]
 - Lee, H. S., & **Choi, W.** (2023). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023 (Virtual).* [[Full-Text](https://www.ideals.illinois.edu/items/126389)] [[Poster](assets/pubs/2023-iConference-Poster.pdf)]
