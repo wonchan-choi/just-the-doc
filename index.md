@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-<div style="background-color: blue-000; padding: 20px; display: flex; align-items: center;">
+<div style="background-color: #e6f7ff; padding: 20px; display: flex; align-items: center;">
   <div style="flex: 1;">
     <img src="/assets/images/wchoi_gp_60.png" alt="Wonchan Choi">
   </div>
