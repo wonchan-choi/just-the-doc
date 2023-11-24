@@ -15,4 +15,6 @@ The best method to contact me is via email (wchoi@uwm.edu). Here's my [Google Sc
 
 ## Updates
 - [2023.10.30–11.01] Attended the 2023 Annual Meeting of ASIST in London, UK
+
+
 <script align="left" type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=92a5ba&w=300&t=m&d=Buia3_aP6HE9HUvnNVOCjl51F8oLJBl4jj6v4tYFxDE&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
