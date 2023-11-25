@@ -4,6 +4,8 @@ theme: just-the-docs
 
 color_scheme: foo
 
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
 
 # Footer content
 # appears at the bottom of every page's main content
