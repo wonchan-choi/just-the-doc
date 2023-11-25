@@ -30,7 +30,7 @@ layout: home
     <img src="assets/images/wchoi_gp_60.png" alt="Wonchan Choi">
   </div>
   <div style="flex: 2; padding-left: 20px;">
-I am an assistant professor at the <a href="https://uwm.edu/informationstudies/">School of Information Studies</a> at the University of Wisconsin-Milwaukee (UWM). I am broadly interested in <b>human-computer interaction</b> and <b>human-computer interaction</b>. My current projects focus on:
+I am an assistant professor at the <a href="https://uwm.edu/informationstudies/">School of Information Studies</a> at the University of Wisconsin-Milwaukee (UWM). I am broadly interested in <b>information behavior</b> and <b>human-computer interaction</b>. My current projects focus on:
 <ui>
   <li>Information credibility evaluation on interactive knowledge production platforms</li>
   <li>Digital literacy in the generative artificial intelligence era</li>
