@@ -37,16 +37,16 @@ layout: home
     University of Wisconsin-Milwaukee<br/>
     <ul>
     <li>Email: wchoi@uwm.edu</li>
-    <li>Office: NWQD-2890</li>
+    <li>Office: NWQD 2890</li>
     </ul>
-    <button type="button" name="button" class="btn"><a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a></button> <button type="button" name="button" class="btn">CV</button>
+    <button type="button" name="button" class="btn"><a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a></button> <button type="button" name="button" class="btn"><a href="https://drive.google.com/file/d/1s72RNbNhaQZa3uFNlRMbX_HEu1MUzxN4/view?usp=sharing">CV</a></button>
   </div>
 </div>
  
-I'm broadly interested in <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. I emphasize the role of people as the central actors in interactions among the three components of information science and technology. People (users) are therefore considered the starting and end points of my research. Technology is seen as the interface through which users access information or the medium for delivering information and information services to users. 
+My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. I'm interested in the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. I emphasize the role of people as the central actors in interactions among the three components of information science and technology. 
 
 My current projects focus on:
-- Credibility assessment of online information on social media
+- Credibility assessment of online information on social media 
 - Generative artificial intelligence literacy
 - Usability and accessibility of information systems for disadvantaged user groups
 
