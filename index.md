@@ -56,6 +56,4 @@ I am an assistant professor at the <a href="https://uwm.edu/informationstudies/"
 [Tiny ass button](https://just-the-docs.com){: .btn }
 </span>
 
-
-
 <script align="left" type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=92a5ba&w=300&t=m&d=Buia3_aP6HE9HUvnNVOCjl51F8oLJBl4jj6v4tYFxDE&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
