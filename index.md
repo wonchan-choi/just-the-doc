@@ -2,13 +2,35 @@
 title: Home
 layout: home
 ---
-# Home
-I am an assistant professor at the School of Information Studies at University of Wisconsin-Milwaukee (UWM). I am broadly intersted in human information behavior and human–computer interaction. My current projects focus on:
-- Information credibility evaluation on interactive knolwedge production platforms
-- Usability and accessibility of information systems for diverse users 
+<style>
+  /* Default styles */
+  .flex-container {
+    background-color: #F5F6FA;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
 
-![Book logo](/assets/images/wonchan_noBackground_xsm.png)
+  /* Image styles for small screens (up to 767px width) */
+  @media (max-width: 767px) {
+    .flex-container {
+      flex-direction: column; /* Stack items vertically */
+      align-items: center; /* Center items horizontally */
+    }
 
-2025 E Newport Ave
-NWQD-2890
-wchoi@uwm.edu | [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en)
+    .flex-container img {
+      width: 100%; /* Make the image take up the full width */
+      margin-bottom: 15px; /* Add some space below the image */
+    }
+  }
+</style>
+
+<div class="flex-container">
+  <div style="flex: 1;">
+    <img src="/assets/images/wchoi_gp_60.png" alt="Wonchan Choi">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <!-- Your content here -->
+    I am an assistant professor at the <a herf="https://uwm.edu/informationstudies/">School of Information Studies</a> at University of Wisconsin-Milwaukee. My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. I emphasize the role of people as the central actors in interactions among the three components of information science and technology (IST).  
+  </div>
+</div>
