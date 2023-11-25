@@ -33,12 +33,13 @@ layout: home
     <!-- Your content here -->
     <b>Wonchan Choi, PhD</b> (he/him/his)<br/>
     Assistant Professor <br/>
-    <a href="https://uwm.edu/informationstudies/">School of Information Studies</a>, University of Wisconsin-Milwaukee<br/>
+    School of Information Studies<br/> 
+    University of Wisconsin-Milwaukee<br/>
     <ul>
     <li>Email: wchoi@uwm.edu</li>
-    <li>Office: Northwest Quadrant Building D, Room 2890</li>
+    <li>Office: NWQD-2890</li>
     </ul>
-    <button type="button" name="button" class="btn">Google Scholar</button> <button type="button" name="button" class="btn">CV</button>
+    <button type="button" name="button" class="btn"><a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a></button> <button type="button" name="button" class="btn">CV</button>
   </div>
 </div>
  
