@@ -31,15 +31,26 @@ layout: home
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <!-- Your content here -->
-    I am an assistant professor at the <a href="https://uwm.edu/informationstudies/">School of Information Studies</a> at University of Wisconsin-Milwaukee. My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives.
+    <b>Wonchan Choi, PhD</b> (he/him/his)</br>
+    Assistant Professor </br>
+    <a href="https://uwm.edu/informationstudies/">School of Information Studies</a>, University of Wisconsin-Milwaukee</br>
+    <ul>
+    <li>Email: wchoi@uwm.edu</li>
+    <li>Office: Northwest Quadrant Building D, Room 2890</li>
+    </ul>
+    <button type="button" name="button" class="btn">Google Scholar</button> <button type="button" name="button" class="btn">CV</button>
   </div>
 </div>
+ 
+I'm broadly interested in <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. I emphasize the role of people as the central actors in interactions among the three components of information science and technology. People (users) are therefore considered the starting and end points of my research. Technology is seen as the interface through which users access information or the medium for delivering information and information services to users. 
 
-## Contact Information
-- Email: wchoi@uwm.edu
-- Office: Northwest Quadrant Building D, Room 2890
-[Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en)
+My current projects focus on:
+- Credibility assessment of online information on social media
+- Generative artificial intelligence literacy
+- Usability and accessibility of information systems for disadvantaged user groups
 
 ## News
 - [2023.11.05] Joined the editorial advisory board of [The Electronic Library](https://www.emeraldgrouppublishing.com/journal/el).
 - [2023.10.30-11.01] Attended the [86th Annual Meeting of ASIST](https://www.asist.org/am23/) in London, UK. 
+
+<script align="left" type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=92a5ba&w=300&t=m&d=Buia3_aP6HE9HUvnNVOCjl51F8oLJBl4jj6v4tYFxDE&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
