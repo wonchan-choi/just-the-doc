@@ -31,6 +31,8 @@ layout: home
   </div>
   <div style="flex: 2; padding-left: 20px;">
 I am an assistant professor at the <a href="https://uwm.edu/informationstudies/">School of Information Studies</a> at the University of Wisconsin-Milwaukee (UWM). My research program involves studies of information behavior and human-computer interaction. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. I emphasize the role of people as the central actors in interactions among the three components of information science and technology. 
+    <a href="https://example.com" style="background-color: #ffffff; color: #4682F2; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visit Example.com</a>
+
   </div>
 </div>
 
@@ -54,7 +56,6 @@ I am an assistant professor at the <a href="https://uwm.edu/informationstudies/"
 [Tiny ass button](https://just-the-docs.com){: .btn }
 </span>
 
-<a href="https://example.com" style="background-color: #ffffff; color: #4682F2; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visit Example.com</a>
 
 
 <script align="left" type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=92a5ba&w=300&t=m&d=Buia3_aP6HE9HUvnNVOCjl51F8oLJBl4jj6v4tYFxDE&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
