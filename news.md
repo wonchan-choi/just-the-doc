@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: News
 layout: default
 ---
 
