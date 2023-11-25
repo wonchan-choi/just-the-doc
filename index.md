@@ -31,6 +31,6 @@ layout: home
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <!-- Your content here -->
-    I am an assistant professor at the <a herf="https://uwm.edu/informationstudies/">School of Information Studies</a> at University of Wisconsin-Milwaukee. My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. I emphasize the role of people as the central actors in interactions among the three components of information science and technology (IST).  
+    I am an assistant professor at the <a herf="https://uwm.edu/informationstudies/">School of Information Studies</a> at University of Wisconsin-Milwaukee. My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. I emphasize the role of people as the central actors in interactions among the three components of information science and technology.  
   </div>
 </div>
