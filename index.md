@@ -31,9 +31,9 @@ layout: home
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <!-- Your content here -->
-    <b>Wonchan Choi, PhD</b> (he/him/his)</br>
-    Assistant Professor </br>
-    <a href="https://uwm.edu/informationstudies/">School of Information Studies</a>, University of Wisconsin-Milwaukee</br>
+    <b>Wonchan Choi, PhD</b> (he/him/his)<br/>
+    Assistant Professor <br/>
+    <a href="https://uwm.edu/informationstudies/">School of Information Studies</a>, University of Wisconsin-Milwaukee<br/>
     <ul>
     <li>Email: wchoi@uwm.edu</li>
     <li>Office: Northwest Quadrant Building D, Room 2890</li>
