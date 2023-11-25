@@ -41,4 +41,4 @@ Email: wchoi@uwm.edu
 
 ## News
 - [2023.11.05] Joined the editorial advisory board of [The Electronic Library](https://www.emeraldgrouppublishing.com/journal/el).
-- [2023.10.30-11.01] Attended the 86th Annual Meeting of ASIST in London, UK. 
+- [2023.10.30-11.01] Attended the [86th Annual Meeting of ASIST](https://www.asist.org/am23/) in London, UK. 
