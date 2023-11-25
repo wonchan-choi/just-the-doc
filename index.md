@@ -5,7 +5,7 @@ layout: home
 <style>
   /* Default styles */
   .flex-container {
-    #background-color: #F5F6FA;
+    background-color: #F5F6FA;
     padding: 20px;
     display: flex;
     align-items: center;
