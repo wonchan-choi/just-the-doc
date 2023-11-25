@@ -30,7 +30,7 @@ layout: home
     <img src="assets/images/wchoi_gp_60.png" alt="Wonchan Choi">
   </div>
   <div style="flex: 2; padding-left: 20px;">
-I am an assistant professor at the <a href="https://uwm.edu/informationstudies/">School of Information Studies</a> at the University of Wisconsin-Milwaukee (UWM). My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. I emphasize the role of people as the central actors in interactions among the three components of information science and technology..
+I am an assistant professor at the <a href="https://uwm.edu/informationstudies/">School of Information Studies</a> at the University of Wisconsin-Milwaukee (UWM). My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. I emphasize the role of people as the central actors in interactions among the three components of information science and technology.
     <a href="https://example.com" style="background-color: #ffffff; color: #4682F2; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visit Example.com</a>
 
   </div>
