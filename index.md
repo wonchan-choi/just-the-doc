@@ -31,11 +31,19 @@ layout: home
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <!-- Your content here -->
-    I am an assistant professor at the <a herf="https://uwm.edu/informationstudies/">School of Information Studies</a> at University of Wisconsin-Milwaukee. My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. <br>
-
+    Assistant Professor<br>
+    <a herf="https://uwm.edu/informationstudies/">School of Information Studies</a>, Univeristy of Wisconsin-Milwaukee
+    <ul>
+    <li>Email: wchoi@uwm.edu
+    <li>Office: Northwest Quadrant Building D, Room 2890
+    <li>Pronouns: he/him/his
+    </ul>
     <button type="button" name="button" class="btn">CV</button>
+    <button type="button" name="button" class="btn">Google Scholar</button>
   </div>
 </div>
+ 
+ I am an assistant professor at the <a herf="https://uwm.edu/informationstudies/">School of Information Studies</a> at University of Wisconsin-Milwaukee. My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. <br>
 
 ## Contact Information
 Email: wchoi@uwm.edu
