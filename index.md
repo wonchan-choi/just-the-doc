@@ -5,7 +5,7 @@ layout: home
 <style>
   /* Default styles */
   .flex-container {
-    background-color: #F5F6FA;
+    #background-color: #F5F6FA;
     padding: 20px;
     display: flex;
     align-items: center;
@@ -27,7 +27,7 @@ layout: home
 
 <div class="flex-container">
   <div style="flex: 1;">
-    <img src="assets/images/wchoi_gp.png" alt="Wonchan Choi">
+    <img src="assets/images/wonchan_noBackground_sm.png" alt="Wonchan Choi">
   </div>
   <div style="flex: 2; padding-left: 20px;">
 I am an assistant professor at the <a href="https://uwm.edu/informationstudies/">School of Information Studies</a> at the University of Wisconsin-Milwaukee (UWM). I completed a PhD in Information Studies at Florida State University. Prior to joining UWM, I worked as a postdoctoral fellow at the Business School at Worcester Polytechnic Institute in Massachusetts.
