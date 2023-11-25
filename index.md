@@ -31,8 +31,18 @@ layout: home
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <!-- Your content here -->
-    I am an assistant professor at the <a herf="https://uwm.edu/informationstudies/">School of Information Studies</a> at University of Wisconsin-Milwaukee. My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. I emphasize the role of people as the central actors in interactions among the three components of information science and technology.
+    I am an assistant professor at the <a herf="https://uwm.edu/informationstudies/">School of Information Studies</a> at University of Wisconsin-Milwaukee. My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. 
+    
+    wchoi@uwm.edu
+    Google Scholar
+
+    <span class="fs-3">
+[CV](https://drive.google.com/file/d/1s72RNbNhaQZa3uFNlRMbX_HEu1MUzxN4/view?usp=sharing){: .btn }
+</span>
+    
   </div>
 </div>
 
-[Link button](https://just-the-docs.com){: .btn .btn-green }
+## Contact Information
+Email: wchoi@uwm.edu
+[Google Scholar ]
