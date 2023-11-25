@@ -44,7 +44,7 @@ I am an assistant professor at the <a href="https://uwm.edu/informationstudies/"
 - [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en)
 
 ## News
-- [2023.11-07] Joined the editorial advisory board of [The Electronic Library](https://www.emeraldgrouppublishing.com/journal/el). 
+- [2023.11.07] Joined the editorial advisory board of [The Electronic Library](https://www.emeraldgrouppublishing.com/journal/el). 
 - [2023.10.30–11.01] Attended the 86th Annual Meeting of ASIST in London, UK, to present a poster and short paper.
 
 
