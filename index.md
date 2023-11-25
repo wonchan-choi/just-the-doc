@@ -35,13 +35,10 @@ I am broadly interested in <b>human-computer interaction</b> and <b>human-comput
   </div>
 </div>
 
-## Contact Information
-
-I am broadly interested in <b>human information behavior</b> and <b>human–computer interaction</b>. 
-
 My current projects focus on:
-    - Information credibility evaluation on interactive knowledge production platforms
-    - Usability and accessibility of information systems for diverse users
+- Information credibility evaluation on interactive knowledge production platforms
+- Digital literacy in the generative artificial intelligence era
+- Usability and accessibility of information systems for diverse users
 
 The best method to contact me is via email (wchoi@uwm.edu). Here's my [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en) profile page.
 
