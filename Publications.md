@@ -5,7 +5,6 @@ layout: default
 
 # Publications
 ## 2023
-- Zheng, Z., Oh, H., Mim, M., **Choi, W.**, & Lee, Y. (2023). An exploration of robot-mediated Tai Chi exercise for older adults. *Applied Sciences, 13*(9), 5306. [Full-text](https://doi.org/10.3390/app13095306)
 - **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing & Management, 60*(3), 103321. [https://doi.org/10.1016/j.ipm.2023.103321](https://doi.org/10.1016/j.ipm.2023.103321)
 - Lee, H. S., & **Choi, W.** (2023, March). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023.*
 
@@ -42,36 +41,25 @@ layout: default
 - **Choi, W.** (2017, January). Older adults’ health information behavior in the context of everyday life information seeking (ELIS). 2017 Association for Library and Information Science Education Annual Conference, Atlanta, GA.
 
 ## 2016
-- Yang, K., Lee, J., & **Choi, W.** (2016). Publication and citation patterns of Korean LIS research by subject areas. *Malaysian Journal of Library & Information Science, 21*(2), 67–81. [https://doi.org/doi:10.22452/mjlis.vol21no2.5](https://doi.org/doi:10.22452/mjlis.vol21no2.5)
-- Tulu, B., Zheng, H., Franklin, P., & **Choi, W.** (2016, November). TJR App: A mobile app for shared informed decision making in total joint replacement surgery. 2nd Annual Research Collaboration Celebration Event, Worcester, MA.
--	Zheng, H., Tulu, B., **Choi, W.**, & Franklin, P. (2016, September). Using mHealth app to support TKR decision making for knee arthritis patients. Concordium 2016, Arlington, VA.
--	**Choi, W.**, Tulu, B., Zheng, H., & Franklin, P. (2016, August). Developing an mHealth application for osteoarthritis patients. 2016 Americas Conference on Information Systems, San Diego, CA.
-- **Choi, W.**, Pagoto, S. L., Boudreaux, E. D., & Tulu, B. (2016, November). A single-item stress scale for mHealth interventions. American Medical Informatics Association 2016 Annual Symposium, Chicago, IL.
+-	Zheng, H., Tulu, B., **Choi, W.**, & Franklin, P. (2016). Using mHealth app to support TKR decision making for knee arthritis patients. *Concordium 2016*. 
+-	**Choi, W.**, Tulu, B., Zheng, H., & Franklin, P. (2016). Developing an mHealth application for osteoarthritis patients. *AMCIS 2016* [[AIS eLibrary](https://aisel.aisnet.org/amcis2016/Health/Presentations/25/)]
+- **Choi, W.**, Pagoto, S. L., Boudreaux, E. D., & Tulu, B. (2016). A single-item stress scale for mHealth interventions. *AMIA 2016*
 
 ## 2015
-- Yang, K., Lee, J., & **Choi, W.** (2015). Looking beyond the numbers: Bibliometric approach to analysis of LIS research in Korea. *Journal of the Korean Society for Library and Information Science, 49*(4), 241–264. [https://doi.org/doi:10.4275/KSLIS.2015.49.4.241](https://doi.org/doi:10.4275/KSLIS.2015.49.4.241)
-- Stvilia, B., & **Choi, W.** (2015). Mobile wellness application-seeking behavior by college students: An exploratory study. *Library & Information Science Research, 37*(3), 201–208. [https://doi.org/doi:10.1016/j.lisr.2015.04.007](https://doi.org/doi:10.1016/j.lisr.2015.04.007)
-- **Choi, W.**, & Stvilia, B. (2015). Web credibility assessment: Conceptualization, operationalization, variability, and models. *Journal of the Association for Information Science and Technology, 66*(12), 2399-2414. [https://doi.org/doi:10.1002/asi.23543](https://doi.org/doi:10.1002/asi.23543)
-- **Choi, W.**, & Stvilia, B. (2015, March). A new framework for web credibility assessment. iConference 2015, Newport Beach, CA. 
--	**Choi, W.** (2015, January). Older adults’ credibility assessment of online health information. 2015 Association for Library and Information Science Education Annual Conference, Chicago, IL. 
+
+- **Choi, W.**, & Stvilia, B. (2015, March). A new framework for web credibility assessment. *iConference 2015*. [[Abstract](https://www.ideals.illinois.edu/items/73945)] [[Poster](assets/pubs/2015-iConference-Poster.pdf)] 
 
 ## 2014
-- **Choi, W.** (2014, January). Implications of assessing the credibility of online Information for the LIS curriculum. 2014 Association for Library and Information Science Education Annual Conference, Philadelphia, PA.
-- **Choi, W.**, & Stvilia, B. (2014, November). How do college students choose mobile health/wellness applications? 77th Annual Meeting of Association for Information Science and Technology, Seattle, WA.
-- **Choi, W.**, & Stvilia, B. (2014, March). College students’ value structure of choosing and using mobile health/wellness applications: Preliminary findings. iConference 2014, Berlin, Germany.
+- **Choi, W.**, & Stvilia, B. (2014). How do college students choose mobile health/wellness applications? *ASIST 2014*. [[ASIST DL](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/meet.2014.14505101115)] [[Abstract](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/meet.2014.14505101115)] [[Poster](assets/pubs/2014-ASIST-Poster.pdf)]
+- **Choi, W.**, & Stvilia, B. (2014). College students’ value structure of choosing and using mobile health/wellness applications: Preliminary findings. *iConference 2014*. [[Abstract](https://www.ideals.illinois.edu/items/47352)] [[Poster](assets/pubs/2014-iConference-Poster.pdf)]
 
 ## 2013
-- **Choi, W.**, & Stvilia, B. (2013, November). Use of mobile wellness applications and perception of quality. 76th Annual Meeting of the Association for Information Science and Technology, Montreal, Canada. 
-- **Choi, W.**, Carranza, J., & Fox, M. (2013, November). Guidelines for older-adult-friendly online tutorial for Facebook: Content, design, and training principles. 76th Annual Meeting of the Association for Information Science and Technology, Montreal, Canada.
-- Oh, S., **Choi, W.**, & Valisa, S. (2013, November). The Sonzogno digital library project. 76th Annual Meeting of the Association for Information Science and Technology, Montreal, Canada. 
-- Lee, J., & **Choi, W.** (2013, November). Difference in citation rates by subject areas of LIS in Korea. 76th Annual Meeting of the Association for Information Science and Technology, Montreal, Canada. 
-- **Choi, W.** (2013, November). Credibility assessment of online resources and perceived quality of mobile applications. ASIS&T SIG-USE Symposium—Ignite Talk, Montreal, Canada.
-- **Choi, W.** (2013, May). What makes online health information credible for older adults?: An exploratory study. 2013 ACM CHI Conference on Human Factors in Computing Systems, Paris, France.
+- **Choi, W.**, & Stvilia, B. (2013). Use of mobile wellness applications and perception of quality. *ASIST 2013*. [[ACM DL](https://dl.acm.org/doi/10.5555/2655780.2655928)] [[Abstract](https://dl.acm.org/doi/pdf/10.5555/2655780.2655928)] [[Poster](assets/pubs/2013-ASIST-Poster-Mobile-App.pdf)]
+- **Choi, W.**, Carranza, J., & Fox, M. (2013). Guidelines for older-adult-friendly online tutorial for Facebook: Content, design, and training principles. *ASIST 2013*. [[ACM DL](https://dl.acm.org/doi/10.5555/2655780.2655929)] [[Abstract](https://dl.acm.org/doi/pdf/10.5555/2655780.2655929)] [[Poster](assets/pubs/2013-ASIST-Poster-Facebook.pdf)]
+- Oh, S., **Choi, W.**, & Valisa, S. (2013). The Sonzogno digital library project. *ASIST 2013*. [[ACM DL](https://dl.acm.org/doi/10.5555/2655780.2655919)] [[Abstract](https://dl.acm.org/doi/pdf/10.5555/2655780.2655919)]  
+- Lee, J., & **Choi, W.** (2013). Difference in citation rates by subject areas of LIS in Korea. *ASIST 2013*. [[ACM DL](https://dl.acm.org/doi/10.5555/2655780.2655931)] [[Abstract](https://dl.acm.org/doi/pdf/10.5555/2655780.2655931)]
+- **Choi, W.** (2013). What makes online health information credible for older adults?: An exploratory study. *CHI 2013*. [[ACM DL](https://dl.acm.org/doi/10.1145/2468356.2479491)] [[Abstract](https://dl.acm.org/doi/pdf/10.1145/2468356.2479491)] [[Poster](assets/pubs/2013-CHI-Poster.pdf)]
 
 ## 2012
-- Baeg, J. H., **Choi, W.**, Lee, D. J., & Lee, J. (2012, February). The impact of the public library on early reading achievement: Using the early childhood longitudinal study (ECLS) 1st grade student sample. iConference 2012, Toronto, Canada.
-- **Choi, W.** (2012, February). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. iConference 2012, Toronto, Canada.
-
-## 2008
-- Chang, D. H., & **Choi, W.** (2008). Developing and testing of an e-journal evaluation model for university libraries. *Journal of the Korean Society for Information Management, 25*(4), 165–184. [https://doi.org/doi:10.3743/KOSIM.2008.25.4.165](https://doi.org/doi:10.3743/KOSIM.2008.25.4.165)
-- Chang, D. H., & **Choi, W.** (2008). Trends in integrated electronic resource management in academic libraries. *Journal of the Korean Society for Library and Information Science, 42*(4), 201–221. [https://doi.org/doi:10.4275/KSLIS.2008.42.4.201](https://doi.org/doi:10.4275/KSLIS.2008.42.4.201)
+- Baeg, J. H., **Choi, W.**, Lee, D. J., & Lee, J. (2012). The impact of the public library on early reading achievement: Using the early childhood longitudinal study (ECLS) 1st grade student sample. *iConference 2012*. [[ACM DL](https://dl.acm.org/doi/10.1145/2132176.2132279)] [[Abstract](https://dl.acm.org/doi/pdf/10.1145/2132176.2132279)]
+- **Choi, W.** (2012). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. *iConference 2012*. [[ACM DL](https://dl.acm.org/doi/10.1145/2132176.2132313)] [[Abstract](https://dl.acm.org/doi/pdf/10.1145/2132176.2132313)] [[Poster](assets/pubs/2012-iConference-Poster.pdf)]
