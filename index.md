@@ -51,7 +51,8 @@ My current projects focus on:
 - Usability and accessibility of information systems for disadvantaged user groups
 
 ## News
+- [2023.11-26] I created the [first blog](_posts/2023-11-26-blog-test.md) today!
 - [2023.11.05] Joined the editorial advisory board of [The Electronic Library](https://www.emeraldgrouppublishing.com/journal/el).
-- [2023.10.30-11.01] Attended the [86th Annual Meeting of ASIST](https://www.asist.org/am23/) in London, UK. 
+- [2023.10.30-11.01] Attended the [86th Annual Meeting of ASIST](https://www.asist.org/am23/) in London, UK.
 
 <script align="left" type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=92a5ba&w=300&t=m&d=Buia3_aP6HE9HUvnNVOCjl51F8oLJBl4jj6v4tYFxDE&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
