@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: Home
+layout: home
 ---
 <style>
   /* Default styles */
