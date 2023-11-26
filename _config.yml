@@ -1,6 +1,6 @@
 title: Wonchan Choi
 description: Dr. Choi's Website
-theme: just-the-docs
+theme: minima
 
 color_scheme: foo
 
@@ -14,7 +14,7 @@ aux_links_new_tab: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "&#169; 2023 Wonchan Choi"
+footer_content: "&#169;2023 Wonchan Choi"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
